@@ -18,3 +18,5 @@ swapBtn.addEventListener("click", () => {
     toCurrency.value = tempCurrency;
 
 });
+
+
