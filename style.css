@@ -98,3 +98,22 @@ select:focus{
 .icon:hover{
     transform: rotate(180deg);
 }
+
+#finalamt{
+    margin-top: 2rem;
+    text-align: center;
+    padding: 1rem;
+    background: #f5f9ff;
+    border-radius: 10px;
+}
+
+#finalamt h3{
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#result{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4facfe;
+}
